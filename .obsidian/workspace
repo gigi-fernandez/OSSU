@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c2aa6c364a903195",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dce6283086cb776",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/Commands.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7db80b07ab15010",
+    "type": "split",
+    "children": [
+      {
+        "id": "618b11100fa97588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f3eeec0fd04648",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09c1ad5863fda6ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 132
+  },
+  "right": {
+    "id": "b0d10d4becea105c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3a16d66f809259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c9755b93603edb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8dce6283086cb776",
+  "lastOpenFiles": [
+    "Git/Commands.md",
+    "Git/Best Practices.md",
+    "Git/Terminology.md",
+    "Git/git-log-annotated.png",
+    "Git/git-staging.gif",
+    "Pasted image 20220623005913.png.md",
+    "Git/Git Areas.png",
+    "Pasted image 20220623005913.png",
+    "Obsidian/Tips.md",
+    "Untitled.md"
+  ]
+}
