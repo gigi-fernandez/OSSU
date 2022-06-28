@@ -71,11 +71,8 @@ def getGuessedWord(secretWord, lettersGuessed):
     for pair in secretList:
       index = pair[0]
       letter = pair[1]
-      print(index,letter)
       if letter in lettersGuessed:
-        print("It's in the list!")
         tempList[index] = letter
-    print(secretWord)
     return ''.join(tempList)
 
 
@@ -93,7 +90,6 @@ def getAvailableLetters(lettersGuessed):
       if letter in abcList:
         abcList.pop(abcList.index(letter))
     return ''.join(abcList)
-
 
 def hangman(secretWord):
     '''
@@ -116,24 +112,48 @@ def hangman(secretWord):
     Follows the other limitations detailed in the problem write-up.
     '''
     print("Welcome to the game Hangman!\nI am thinking of a word that is",len(secretWord),"letters long")
-    num_guesses = len(secretWord)*2
+    num_guesses = 8
+    lettersGuessed = []
+    lettersEntered = []
     while True:
-      lettersGuessed = []
-      availableLetters = getAvailableLetters(lettersGuessed)
-      guess = input('Enter a letter: ').lower()
-      num_guesses -= 1
-      if guess in getGuessedWord(secretWord, [guess]):
-        lettersGuessed.append(lettersGuessed)
-        availableLetters = getAvailableLetters(lettersGuessed)
-        getGuessedWord(secretWord, lettersGuessed)
-        print("Correct!")
+      availableLetters = getAvailableLetters(lettersEntered)
+      print("-----------")
+      print("You have",num_guesses,"guesses left")
+      print("Available Letters:",availableLetters)
 
-
-
-
-
-      if isWordGuessed(secretWord, lettersGuessed):
+      while True:
+        try:
+          guess = input('Please guess a letter: ').lower()[0] # takes only the first letter
+        except:
+          print('Please enter a valid letter')
+          continue
         break
+
+      if guess in lettersEntered:
+        print("Oops! You've already guessed that letter:", getGuessedWord(secretWord, lettersGuessed))
+        continue
+
+      lettersEntered.append(guess)
+      if guess in getGuessedWord(secretWord, [guess]):
+        lettersGuessed.append(guess)
+        guessSF = getGuessedWord(secretWord, lettersGuessed)    # Guess So Far
+        availableLetters = getAvailableLetters(lettersEntered)
+        print("Good guess:", guessSF)
+        if isWordGuessed(secretWord, lettersGuessed):
+          print("-----------")
+          print("Congratulations, you won!")
+          break
+
+      else:
+        num_guesses -= 1
+        print("Oops! That letter is not in my word:", getGuessedWord(secretWord, lettersGuessed))
+        if num_guesses <= 0:
+          print("-----------")
+          print("Sorry, you ran out of guesses. The word was " + secretWord)
+          break
+
+#hangman(chooseWord(loadWords()))
+print(hangman('ceea'))
 
 
 # When you've completed your hangman function, uncomment these two lines
