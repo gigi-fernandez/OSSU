@@ -152,8 +152,7 @@ def hangman(secretWord):
           print("Sorry, you ran out of guesses. The word was " + secretWord)
           break
 
-#hangman(chooseWord(loadWords()))
-print(hangman('ceea'))
+print(hangman(chooseWord(loadWords())))
 
 
 # When you've completed your hangman function, uncomment these two lines
