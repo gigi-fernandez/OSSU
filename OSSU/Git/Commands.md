@@ -81,7 +81,7 @@ If we accidentally stage something we didn't intend to, we can run `git rm --cac
 >[!Tip] VSCode Source Control
 >You can do most of what git does using VSCode:
 >
->![[VSCode source control.png]]
+>![[VSCode Source Control.png]]
 
 If you want Git to ignore certain files, you can do so in two ways:
 1. Running `git add *` instead of `git add .` will ignore all files starting with `.`

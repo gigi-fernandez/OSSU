@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSSU/Mathematics/Intro Math Thinking/Notation and Conventions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c151f0ba9b261295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSSU/Mathematics/Intro Math Thinking/Unit 4/Assignment 6.md",
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSSU/Mathematics/Intro Math Thinking/Unit 4/Assignment 6.md",
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,40 +104,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c151f0ba9b261295",
+  "active": "49f57417172c206b",
   "lastOpenFiles": [
-    "Pasted image 20230418203623.png",
-    "Pasted image 20230417230448.png",
-    "Pasted image 20230417225434.png",
-    "Pasted image 20230417224624.png",
-    "Pasted image 20230417222031.png",
-    "Pasted image 20230417221911.png",
-    "Pasted image 20230417221456.png",
-    "OSSU/Mathematics/Intro Math Thinking/Notation and Conventions.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 4/Assignment 6.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 4",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 3/Assignment 5.md",
-    "Pasted image 20230410215731.png",
-    "Pasted image 20230410215451.png",
-    "Pasted image 20230410214626.png",
-    "Pasted image 20230410213916.png",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 3",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Notation and Conventions.md",
+    "OSSU/Screenshots/Pasted image 20230406094403.png",
+    "OSSU/Screenshots",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
+    "OSSU/Screenshots/Pasted image 20230418203623.png",
+    "OSSU/Screenshots/Pasted image 20230417230448.png",
+    "OSSU/Screenshots/Pasted image 20230417225434.png",
+    "OSSU/Screenshots/Pasted image 20230417224624.png",
+    "OSSU/Screenshots/Pasted image 20230417222031.png",
+    "OSSU/Screenshots/Pasted image 20230417221911.png",
+    "OSSU/Screenshots/Pasted image 20230417221456.png",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 3/Assignment 5.md",
+    "OSSU/Screenshots/Pasted image 20230410215731.png",
+    "OSSU/Screenshots/Pasted image 20230410215451.png",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 3",
     "OSSU/Mathematics/Geometry takeaways.md",
     "Obsidian/Tips.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 2/Assignment 4.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2/Assignment 4.md",
     "Obsidian/Note Link.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 2/Assignment 3.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 1/Assignment 2.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 2",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 1/Assignment 1.md",
-    "OSSU/Mathematics/Intro Math Thinking/Unit 1",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2/Assignment 3.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1/Assignment 2.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1/Assignment 1.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1",
     "OSSU/Mathematics/Untitled.md",
-    "OSSU/Mathematics/Intro Math Thinking",
+    "OSSU/Mathematics/Intro to Mathematical Thinking",
     "OSSU/Mathematics/Machine Learning Pre-requisites/Additional1-notes-matrix-primer.pdf",
     "OSSU/Mathematics/Machine Learning Pre-requisites/A primer on vectors.pdf",
     "OSSU/MITx 6.0.01/Assertions.md",
     "German/Hours of study.md",
-    "Git/Commands.md",
-    "Git/Best Practices.md"
+    "OSSU/Git/Commands.md",
+    "OSSU/Git/Best Practices.md"
   ]
 }

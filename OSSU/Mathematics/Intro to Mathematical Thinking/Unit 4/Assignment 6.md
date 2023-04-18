@@ -13,7 +13,7 @@ $\neg$\[$\exists$xA(x)\] is equivalent to $\forall$x\[$\neg$A(x)\]
 ![[Pasted image 20230417222031.png]]
 The sets will be abreviated to their initial letters only (i.e.: The set of all People is __P__.)
 (a) $\forall$x$\in$P ( Student(x) => Pizza(x) )
-(b) $\forall$x$\in$P ( MyFriend(x) => $\neg$HaverCar(x) )
+(b) $\exists$x$\in$P ( MyFriend(x) => $\neg$HaverCar(x) )
 (c) $\exists$x$\in$A (Elephant(x) => $\neg$LikeMuffins(x))
 (d) $\forall$x$\in$GF (Triangle(x) => Isosceles(x))
 (e) $\neg$( $\forall$x$\in$GF (Student(x) => InClass(x)) )
@@ -48,6 +48,4 @@ The sets will be abreviated to their initial letters only (i.e.: The set of all 
 ![[Pasted image 20230417230448.png]]
 
 $\exists$p ($\exists$t ($\neg$Fool(p,t)))
-
-![[Pasted image 20230418203623.png]]
 
