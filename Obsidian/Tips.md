@@ -28,7 +28,6 @@ Same as lists, but with [x], [?] or empty brackets before the text:
 
 Just enclose the name of the note in `[[]]`
 [[Note Link]]
-[[Test Note]]
 
 # Embed, # Files, # URLs
 
