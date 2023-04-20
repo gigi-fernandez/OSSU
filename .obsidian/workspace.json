@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6536936b2a217a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +117,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "49f57417172c206b",
+  "active": "6536936b2a217a1c",
   "lastOpenFiles": [
+    "Pasted image 20230420123944.png",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Notation and Conventions.md",
     "OSSU/Screenshots/Pasted image 20230406094403.png",
     "OSSU/Screenshots",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
     "OSSU/Screenshots/Pasted image 20230418203623.png",
     "OSSU/Screenshots/Pasted image 20230417230448.png",
     "OSSU/Screenshots/Pasted image 20230417225434.png",
