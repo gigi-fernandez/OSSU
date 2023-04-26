@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "148a79e9cc963d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f6699377054bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSSU/NAND 2 Tetris/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
+                "file": "OSSU/NAND 2 Tetris/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,39 +129,43 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2194c371bd22fe25",
+  "active": "34f6699377054bb2",
   "lastOpenFiles": [
-    "OSSU/Mathematics/Machine Learning Pre-requisites/A primer on vectors.pdf",
+    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/project0.zip",
+    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/file.zip",
+    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/file.7z",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Sys.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/String.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Screen.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Output.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Memory.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Math.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Keyboard.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Array.vm",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrstop.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrrewind.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrforward.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrfastforward.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallplus.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallok.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallnew.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallminus.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallequal.gif",
+    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallcancel.gif",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
+    "OSSU/NAND 2 Tetris/Untitled.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
-    "OSSU/Screenshots/Pasted image 20230420151816.png",
-    "OSSU/Screenshots/Pasted image 20230420151321.png",
-    "OSSU/Screenshots/Pasted image 20230420150934.png",
-    "OSSU/Screenshots/Pasted image 20230420144134.png",
-    "OSSU/Screenshots/Pasted image 20230420132804.png",
-    "OSSU/Screenshots/Pasted image 20230420132112.png",
-    "OSSU/Screenshots/Pasted image 20230420131412.png",
-    "OSSU/Screenshots/Pasted image 20230420125537.png",
-    "OSSU/Screenshots/Pasted image 20230420124550.png",
-    "OSSU/Screenshots/Pasted image 20230420123944.png",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Notation and Conventions.md",
-    "OSSU/Screenshots",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 3/Assignment 5.md",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 3",
     "OSSU/Mathematics/Geometry takeaways.md",
     "Obsidian/Tips.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2/Assignment 4.md",
     "Obsidian/Note Link.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2/Assignment 3.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1/Assignment 2.md",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 2",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1/Assignment 1.md",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 1",
     "OSSU/Mathematics/Untitled.md",
-    "OSSU/Mathematics/Intro to Mathematical Thinking",
-    "OSSU/Mathematics/Machine Learning Pre-requisites/Additional1-notes-matrix-primer.pdf",
     "OSSU/MITx 6.0.01/Assertions.md",
     "German/Hours of study.md",
     "OSSU/Git/Commands.md",
