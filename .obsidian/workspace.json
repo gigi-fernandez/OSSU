@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34f6699377054bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSSU/NAND 2 Tetris/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSSU/NAND 2 Tetris/Untitled.md",
+                "file": "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,31 +117,32 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34f6699377054bb2",
+  "active": "148a79e9cc963d84",
   "lastOpenFiles": [
-    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/project0.zip",
-    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/file.zip",
-    "OSSU/NAND 2 Tetris/nand2tetris/projects/00/file.7z",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Sys.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/String.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Screen.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Output.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Memory.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Math.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Keyboard.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/OS/Array.vm",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrstop.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrrewind.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrforward.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/vcrfastforward.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallplus.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallok.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallnew.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallminus.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallequal.gif",
-    "OSSU/NAND 2 Tetris/nand2tetris/tools/bin/images/smallcancel.gif",
-    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/mimetypes/emacs-document23.svg",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/mimetypes/emacs-document.svg",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/apps/emacs23.svg",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/apps/emacs.svg",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/48x48/apps/emacs22.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/48x48/apps/emacs23.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/48x48/apps/emacs.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/32x32/apps/emacs23.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/32x32/apps/emacs22.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/32x32/apps/emacs.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/24x24/apps/emacs23.png",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/mimetypes",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/48x48/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/32x32/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/24x24/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/16x16/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/128x128/apps",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/allout-widgets/light-bg/unlocked-encrypted.xpm",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/allout-widgets/light-bg/through-descender.xpm",
+    "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/allout-widgets/light-bg/skip-descender.xpm",
     "OSSU/NAND 2 Tetris/Untitled.md",
+    "OSSU/NAND2Tetris/Untitled.md",
+    "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 5/Assignment 7.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 4/Assignment 6.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Notation and Conventions.md",
