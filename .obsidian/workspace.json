@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "18791fbba1f93f5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +125,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18791fbba1f93f5f",
+  "active": "148a79e9cc963d84",
   "lastOpenFiles": [
+    "OSSU/NAND2Tetris/nand2tetris/projects/01/Mux4Way16.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Or8Way.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Mux16.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Or16.out",
@@ -147,7 +138,6 @@
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Or.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/And.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Not.out",
-    "OSSU/NAND2Tetris/nand2tetris/projects/01/Mux.out",
     "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/mimetypes/emacs-document23.svg",
     "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/mimetypes/emacs-document.svg",
     "OSSU/Programming Languages/A/emacs-26.1-x86_64-no-deps/share/emacs/26.1/etc/images/icons/hicolor/scalable/apps/emacs23.svg",
