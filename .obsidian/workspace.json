@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18791fbba1f93f5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,6 +78,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "a934c9e19e47ec6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -117,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "148a79e9cc963d84",
+  "active": "18791fbba1f93f5f",
   "lastOpenFiles": [
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Or8Way.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/01/Mux16.out",
