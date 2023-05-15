@@ -56,4 +56,3 @@ For a proposition _A_(n):
 2. Write down _A_(n) and _A_(n+1).
 3. Reduce _A_(n+1) to a form where you can use A(n)
 4. Hence, by PMI, the identity holds $\forall$n _A_(n). 
-5. 
