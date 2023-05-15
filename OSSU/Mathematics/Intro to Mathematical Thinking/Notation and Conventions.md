@@ -30,3 +30,30 @@ _The order in which logical operators are applied_
 	( ... ) $\wedge$ ( ... )
 4. Then disjunction and implication (should always use parenthesis anyways)
 	( ... ) $\vee$ ( ... ) ------ ( ... ) => ( ... )
+
+# Types of proofs
+
+### Proof by example
+
+For a given proposition _A_, try to think of an example in which _A_ is true (if we are trying to prove a single case) or false (if we are trying to disprove a $\forall$ statement). In this proof, you need multiple quantifiers, one of which will be replaced by __any arbitrary__ number. You must solve the statement for any arbitrary number.
+
+### Proof by contradiction
+
+For a given proposition _A_, try to extract logical conclusions (maybe with the help of an example) that are contradictory. If those two conclusions are logically valid from the premise, but the result is paradoxical, the you have proven that the _A_ is not logically sound (and therefore, false).
+
+### Proof by cases
+
+For a given proposition _A_ try to branch its possibilities into cases (if P(x) is True, if P(x) is False...). If all possible cases lead to the same conclussion, you just have proven something.
+
+## Proof by induction
+
+Based on the Principle of Mathematical Induction, this proof only works for $\forall$ type statements $\in$$\mathbb{N}$. 
+PMI: ($\forall$n) \[_A_(n) => _A_(n + 1)\]
+For a proposition _A_(n):
+0. Start by clarifying that you are using PMI: 
+	_By mathematical induction..._
+1. Test _A_(n) for the first few cases. Usually 0 or 1.
+2. Write down _A_(n) and _A_(n+1).
+3. Reduce _A_(n+1) to a form where you can use A(n)
+4. Hence, by PMI, the identity holds $\forall$n _A_(n). 
+5. 
