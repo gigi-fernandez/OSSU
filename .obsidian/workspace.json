@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da915aadd591a48b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "148a79e9cc963d84",
+  "active": "da915aadd591a48b",
   "lastOpenFiles": [
     "OSSU/NAND2Tetris/nand2tetris/notes/Negative binary numbers.md",
     "OSSU/Mathematics/Intro to Mathematical Thinking/Unit 6/Assignment 8.md",
