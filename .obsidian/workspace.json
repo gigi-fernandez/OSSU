@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "ffa2e33d83d6596a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
+            "id": "af3e5cb4832796ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "4d60523a58f1a4da",
             "type": "leaf",
             "state": {
@@ -31,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +145,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "da915aadd591a48b",
+  "active": "af3e5cb4832796ed",
   "lastOpenFiles": [
     "OSSU/NAND2Tetris/nand2tetris/projects/03/a/PC.out",
     "OSSU/NAND2Tetris/nand2tetris/projects/03/b/RAM16K.out",
