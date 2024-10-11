@@ -1,0 +1,3 @@
+Mining and Herbalism GOBs are placed at random based on level (i.e.: 10-20 is Copper, Tin and Silver, 20-30 is Gold, Iron and Truesilver, ...). They are also placed based on nodes with modifiable "Density". They follow certain patterns, like Mining GOBs being placed near stone, Herbalism on grass, etc. 
+
+As for Skinning, there will always be a certain number of Critters + Beasts. If the percentage of Beast Creatures nodes is insufficient, critters with an appropiate level to the zone will be added. They will have the same skinning loot as beasts in the zone. If the percentage of Beasts exceeds the defined number of Beasts + Critters, they will have a lower chance of dropping leather.

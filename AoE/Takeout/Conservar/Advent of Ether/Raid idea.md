@@ -1,0 +1,1 @@
+Have a raid where you are actually sieging a castle and different groups have to do different thing at different places (can have multiple stages where they synchronize.

@@ -1,0 +1,1 @@
+A guild made up of libertarianesque minded people, who are not banded together by culture or religion, but by political goals. They have vastly different abilities, but they accept that as part of their identity. They are united for a common cause, like, say, regicide, for example. Look into the Red Lotus, Avatar.

@@ -1,0 +1,3 @@
+Every two-weeks there should be an update. Every change admitted must have a counter of updates until it's implemented. Ex: A guild builds a town: 2 updates. A city declares war to another: 4 updates...
+
+Every update there should be a checklist to see if certain things unfold or remain the same. For example: Trade between Bassadya and Bra'altir is stable (?), The Scholar is still hidden (?), Identity of Babakari is unrevealed, etc.

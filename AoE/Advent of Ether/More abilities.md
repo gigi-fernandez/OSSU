@@ -1,0 +1,46 @@
+BASELINE ABILITIES (categorized as Tricks and have their own virtues):
+- Sprint: Channeled ability that increases your movement speed by 60%, but depletes your sprint bar. You can only sprint while the bar is above 15%. While sprinting, you can't perform any actions besides moving and the bar will deplete even while standing still. Press the ability again to stop it. It has a separate GCD of 3 seconds. While in combat, Sprint only increases your movement speed by 30%.
+-       Sprint Virtues: (1) Marathon Runner: Your sprint bar depletes half as fast, but your sprint increases your movement speed by 30% at all times. (2) Combat Rush: Your mid-combat Sprints increase your movement speed by 60%, but your sprint bar depletes 100% quicker.
+
+-Shadow Manifestation: Teleport to the back of your target. After 8 seconds you teleport back to your original location, unless your movement is impaired. (The original location is marked with a mirror image of yourself, and the caster has a Shadowform spell effect.
+-Power Leak: Interrupts your target's ability cast. If it's successful, they lose 50% of their remaining energy. If it's not a player, they are silenced for 3 seconds.
+-Spirit Shackles: Places Spirit Shackles on your target, making them lose energy on every attack they make.
+-Crysalis: After not taking damage for 5 seconds, you gain a shield that absorbs 10% of your HP that lasts for 5 seconds (make a periodic trigger that procs another periodic aura. That last aura is removed on damage).
+-Some ability that prevents the target from being healed.
+-Some curse that makes the target absorb healing for x amount.
+-Mind Flay: Channeled dot that deals a burst of damage and applies a 50% slow at the end of its duration (3 seconds or so)
+-Aftershock: Deals damage to the target and puts a magic debuff on the target for 3 seconds. At the end of the debuff duration, the target is interrupted. If it's successfully interrupted, the target takes extra damage.
+-Harmstring: Really short 40% slow (4 seconds) with no CD. 
+-Evocation: 10 seconds channel that progressively restores focus each second (1st 2 seconds: 4 focus, 2nd: 8 f, 3rd 16, 4th 32, 5th 64)
+-Magical Adaptation: You have a 1% chance to dispel a magic effect on yourself every second. (Can be with poisons, diseases or others).
+-(item) Rusty weapon: Melee hits have a high chance of infecting your target with Lockjaw. If your target is bleeding or starts bleeding briefly after being hit, they will receive a disease that cripples them and deals damage over time.
+-Intervention: Channeled ability with a short cast time that fully negates all healing on the target. 1 second cast time.
+- Virtue: Your (channeled damage ability) now stacks Energy. If you cast X ability it will consume all energy to heal an ally (or AoE heal)
+- Stealth Virtue: Whenever you stay still for 2 seconds while stealthed, you are less likely to be detected. Lasts until you move.
+- Rain of Blows: Channeled ability that deals 20% weapon damage every 0.25 seconds for up to 5 seconds. However, you take 30% increased damage while using it.
+- Beast Within: Whenever you lose control of your character, your Beast Within bursts, dealing 150% weapon damage to all around you.
+- (Parry Virtue) Counterattack: Succesfully parrying an attack on the first 0.5 seconds of the channel will increase your attack speed by 15% for 6 seconds. If you parry during the first 0.25 seconds, the duration is doubled.
+- Poison Weapon: Imbues your weapon with a poison, giving your hits the chance to poison the target for minor damage over time. (VIRTUE: Your poison now stacks 2/3 times)
+- (Trinket) Gambler's Dice: 10 INT. OnEquip: Increases the chance to receive crits by 15%.
+- Ice Lance: Launches a damaging ice shard through a line of targets up to 20yd in front of you, dealing X frost damage (moderate) and slowing them for 20% for 8 seconds.
+- Amplify Cast: Trick with a Cast time (1 second) that increases the damage of your next ability by 30% (20 second duration).
+- Amplify Cast VIRTUE: Overchannel now has a much reduced GCD.
+- Façade: Channeled ability that reduces your threat every second.
+- Power Flow: Channeled ability that increases the damage of your target by 15%, damage received by 10% and healing done by 20%. Lasts until cancelled (moving, casting, etc) and only one Power Flow can be cast on a single target. Through Virtues, you can transform this spell into a dmg increasing one (increases damage of your ally by 30%), a healing increasing one (increases healing by 40%) or a tanking one (reduces damage taken by 20%). Even consider a hidden one related to a time control quest (Increases AGI of your target by 10 or so). Each of these virtues have another branched virtue that increases one of the respective stats (INT, Threat, Haste) on the target.
+- Spawns of Creation: (SPELL) During the next minute, all your critical heals will spawn a creature that damages their closest enemy.
+- Lich Heart: You heal yourself for 5% of your max HP every 5 seconds. If you are targetting something with less %HP than you and if you are in combat with it, you will deal Dark damage to them equivalent to the health you would regenerate (30 yd range). Lasts for 5 minutes and can be cast on any ally from your group or yourself (only one target at the same time).
+- Lich Heart (Virtue): Sudden Undeath: When you are below 20% HP, the time between ticks is decreased by 50%.
+- Lich Heart (Virtue): Adrenalich: Haste now reduces the time between ticks.
+- Balance idea for Charge/Shadowstep/Blink: reduces your melee damage done by X amount if using two-handed weapons.
+- (Spell) Quimera Simulation: You turn yourself into a quimera for 30 seconds, mimicking their abilities for the duration.
+- (Spell) Resurrect: Similar to a Shaman Reincarnation. It consumes a lot of Mana (flat amount).
+- Echo of Steel: You make your ally target's next 2 attacks echo, triggering another autoattack. When cast, this spell instantly refreshes their auto attack timer. Cannot be cast on yourself.
+- Karmic Sin: Your target's next attack to anyone will damage themselves for 100% of their average damage.
+- Chimera Weapon: Enchant your weapon with a magic spectre, making it deal 3% extra weapon damage as Magic damage. When the spell reaches the end of its duration, the Chimera will awaken and take over, disarming you and summoning its true form for 10 seconds. Lasts for 1 minute. The chimera attacks deal 150% of your weapon damage.
+- Nevermend 2.0: Places a curse on your target, which disables healing on your target. Every second the healing penalty is reduced by 5%.
+- (Trinket): stealthed when underwater and endless breath
+- Dark Bargain: Signs a Dark Bargain with yourself. During the next 8 seconds, you must cast 4 spells. If you are succesful you receive 20% haste and gain back the energy cost. However, if you don't, you receive a 20% penalty to haste.
+- Lightning Surge: Mini version of Thunderstorm where you do a 0.5 sec cast thunderstorm that knocks enemies back and stuns you for 0.5 seconds but with a 20 second CD.
+- Twist of Fate: Upon casting this ability, your next 3 damage or healing abilities will not crit, but the next two after those will.
+- (Item passive): Every damage or healing ability that does not crit adds a stack. Upon reaching 4 stacks, your next ability is guaranteed to crit.
+- Twinning Shot: Attack a creature for x damage. If you then attack another nearby creature with Twinning Shot both will receive extra damage.

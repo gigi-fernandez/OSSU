@@ -1,0 +1,1 @@
+It's basically a gameobject that spawns a Raven that you can possess like an Eye of Killrog. You can fly fast over enemy territory and scout/spy, unless they spot you. The raven is fragile and will die on one or two hits. Ravens' Nest has a cooldown, and the Ravens themselves have a duration (unless possessed, which extends it a little bit).

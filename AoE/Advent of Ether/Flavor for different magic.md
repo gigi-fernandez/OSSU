@@ -1,0 +1,3 @@
+- Some conjurers wear blindfolds, as they share their vision with their creations and would be overwhelmed otherwise.
+- Conjuration of familiars requires rituals that take a little bit of time and resources.
+- Magic circles can be drawn in paper. You can stock up on those, but you need to write them yourself and it takes time. You can stock them and use them afterwards.

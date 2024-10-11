@@ -1,0 +1,2 @@
+All creatures loot copper, silver, gold instead of trash items, for simplicity's sake. They have a chance to also drop any item from their level range. The higher the quality, the lower the chance, of course. Cloth is also dropped by all types of creatures, according to their level. 
+Quest items are assigned this way: First, the creature is created. Then, the quest is created. Then, the creature loot table is updated.

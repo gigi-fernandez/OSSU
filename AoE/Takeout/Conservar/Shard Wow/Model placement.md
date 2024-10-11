@@ -1,0 +1,3 @@
+Most world models (props, trees, buildings, etc), if not most, are tagged according to what they are and their theme. 
+
+When creating a zone, you choose a theme and types of models that will be there: Trees, Rocks, Tents, Crops, Houses, etc. Also, you can create Bases (like a Zigurat), and models will be spawned nearby accordingly (small boxes at the side, details, doodads, etc). These are placed in a hierarchy, biggest things (like bases) being placed first and smaller things afterwards, to avoid overlaps.

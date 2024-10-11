@@ -1,0 +1,11 @@
+All players of all skill levels should have something to do:
+- Become a bandit/ part of a bandit gang
+- be a soldier in sieges and hope to climb the ranks
+- be a mercenary in sieges
+- become a commander in sieges (leader of a mercenary squad)
+- exploit "danger" type nodes.
+- become an artisan
+- become a bounty hunter
+- do some quality RP (make a guild of druids without borders and protect nature)
+- ...
+- 

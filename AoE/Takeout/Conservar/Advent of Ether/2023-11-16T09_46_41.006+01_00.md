@@ -1,0 +1,1 @@
+One of the people who know the secret of ether goes insane after being unable to hold to a belief. Becomes a chaotic menace that needs to be dealt with by the players.

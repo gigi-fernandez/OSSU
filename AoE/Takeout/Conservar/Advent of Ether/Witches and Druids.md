@@ -1,0 +1,1 @@
+Witches bend nature to their will, while druids vow to protect nature. As such, they are not usually on good terms with each other, and characters cannot have levels on both classes.

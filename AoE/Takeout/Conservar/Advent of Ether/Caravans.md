@@ -1,0 +1,7 @@
+Caravans are Vehicles of different types designed to carry players and trade goods. They have multiple seats and players can decide to give use them themselves or for storage. Each storage seat is an NPC that, on gossip, opens up a menu like a bag or bank frame (like in this video https://www.youtube.com/watch?v=EsqIODq66Dk) where players can store or retrieve items. Baseline, they have no security, but if upgraded you can put a lock on them, which requires time to open it.
+
+Types of caravan: Mule (only 1 player and 1 chest), small, medium and big (2, 4, 6 and 8 seats, respectively).
+Guilds can build a workshop where they can modify and create caravans. Seats can only hold 1 type, player or storage, and it's decided in that workshop. This adds the storage NPC to the caravan. Each one of those storage NPCs are also obtained by playing (just like bags, the bigger the rarer and harder to obtain.
+Any player can pilot a caravan, so it's in their best interest to never let assaulting players get to the main seat. Players are vulnerable while seated in the caravan, and so is the caravan itself. It has a lot of health, but it can be destroyed, effectively destroying all chests it held.
+
+Players have less effective space in their bags, and many items like materials (for example, Iron bars) do not stack or stack much less (instead of 20 bars per stack, 3). This encourages them to use the caravan system.

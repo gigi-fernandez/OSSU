@@ -1,0 +1,3 @@
+There are some people who just can't do magic. Be it that they hold no firm beliefs, that they are overwhelmed by virtually every belief being true to an extent, or that they have a natural repulsion towards ether, they are unable to tap into ether.
+
+Have a short story about someone who fakes having magic in creative ways and ends up confessing that he really can't use magic, and doesn't know why. Hint but leave up to interpretation the 'why'.

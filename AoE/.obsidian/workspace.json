@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f7976aadeb526a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "268633c6b3430cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e72a0eb73c38b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/Guilds/Territory/Conquest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56fbe1d78781b7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6329ae6208f32158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5be6db75fcd46d4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d7f3c20fcbcc231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2259eab69ab9ba48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e38b0d09ab4e6ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b32dd7d6ed6682f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2737b3820e4bf002",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Systems/Guilds/Territory/Conquest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "905a774c2341b52e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Systems/Guilds/Territory/Conquest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8acdf8a28874ce3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54188b6ad8282163",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Systems/Guilds/Territory/Conquest.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5be6db75fcd46d4b",
+  "lastOpenFiles": [
+    "Takeout/Conservar/Series_.json",
+    "Takeout/Conservar/Series_.html",
+    "Takeout/Conservar/Rota Program.json",
+    "Takeout/Conservar/Rota Program.html",
+    "Takeout/Conservar/Rework scholars.html",
+    "Takeout/Conservar/MVP(1).json",
+    "Takeout/Conservar/MVP(1).html",
+    "Takeout/Conservar/Branding, pitch.json",
+    "Takeout/Conservar/2024-02-09T19_54_04.872+01_00.json",
+    "Takeout/Conservar/2024-01-15T16_17_08.544+01_00.json",
+    "Takeout/Conservar/2024-01-13T08_20_54.818+01_00.json",
+    "Advent of Ether/Enemy idea.md",
+    "AOE Lore/Witches and Druids.md",
+    "AOE Lore/World History.md",
+    "AOE Lore/Enemy idea.md",
+    "AOE Lore/Starting draft.md",
+    "AOE Lore/The scholar.md",
+    "AOE Lore/Narrative considerations.md",
+    "AOE Lore/Magically disabled.md",
+    "AOE Lore/Faith_ The Metkonists.md",
+    "AOE Lore/Faction Idea.md",
+    "AOE Lore/Events unfolded by the AoE.md",
+    "AOE Lore/Disciplines.md",
+    "AOE Lore/Bra_altir.md",
+    "AOE Lore/Bassadya (4_4).md",
+    "AOE Lore/2023-11-16T09_46_41.006+01_00.md",
+    "AOE Lore/1656584305260.511452337.png",
+    "Advent of Ether/World Spells.md",
+    "Advent of Ether/World History.md",
+    "Advent of Ether/Witches and Druids.md",
+    "Advent of Ether/Warlock skill idea.md",
+    "Advent of Ether/Vendor system.md",
+    "Advent of Ether/Unit Tooltip mods.md",
+    "Advent of Ether/TO-DO(1).md",
+    "Advent of Ether/The scholar.md",
+    "Advent of Ether/Starting experience.md",
+    "Advent of Ether/Starting draft.md",
+    "Advent of Ether/18a9fa462c9.96a5fcdb2dde8e02.jpg",
+    "Advent of Ether/18a7e76c271.8b7f7834c42f1b06.jpg",
+    "Advent of Ether/18a7e73faa9.aad0a01469e94223.jpg",
+    "Advent of Ether/18a7c24d88e.829cf3c1cd6e881e.jpg",
+    "Advent of Ether/18a7bb5e1d9.bb9e6e233acc026b.jpg",
+    "Advent of Ether/18a7ba4a170.adc65939fe729d9a.jpg",
+    "Advent of Ether/1688440056224.604818876.png",
+    "Advent of Ether/1688220701637.467834882.png",
+    "Advent of Ether/1656939692945.996146008.png"
+  ]
+}

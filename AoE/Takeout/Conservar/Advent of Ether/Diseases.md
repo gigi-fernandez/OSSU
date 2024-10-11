@@ -1,0 +1,2 @@
+Disease is a status effect. It's harder to build up but it's got permanent effects, until dispelled. It's not noticeable at the beginning, but every 10 minutes it worsens.
+If you reach a certain amount of time without healing it, your character becomes very crippled.

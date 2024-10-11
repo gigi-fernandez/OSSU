@@ -1,0 +1,1 @@
+Check out GameTooltip.lua to edit unit tooltip to display the "correct" faction/guild

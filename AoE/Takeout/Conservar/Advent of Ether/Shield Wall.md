@@ -1,0 +1,2 @@
+Players of the Warrior or Knight class have a passive ability where they can form a Shield Wall, creating a collision box in front of them as long as they channel the ability.
+While channeling, you take reduced damage, but cannot attack or use any other action.

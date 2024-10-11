@@ -1,0 +1,1 @@
+El estilo debería ser serio y minimalista. Que el cliente vea que este campo, gracias a Obelisk, no es intimidante, que puede confiar en la app.

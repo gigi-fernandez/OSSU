@@ -1,0 +1,2 @@
+World Spells are rituals that take Guild-level efforts to cast. They can affect any place inside the map and produce certain conditions (Darkness: increased shadow damage received, for example). These are generally not worth the resources (?).
+Casting a World Spell requires a 30 second cast time, on top of a 60 second channel time (for stabilization). If hit during the stabilization, it breaks. World Spell casters draw a lot of attention from other players.

@@ -1,0 +1,2 @@
+Energy (works like focus, regens slow): 200 points [DONE]
+Ether (works like the modified version of mana I had intended, but is named differently to avoid confusing players). Amount increases throughout gameplay.

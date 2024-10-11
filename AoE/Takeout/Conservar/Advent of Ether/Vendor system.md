@@ -1,0 +1,3 @@
+Each vendor has their own table for the value of their items. Items also have their own table for their market value, updated every X hours based on demand of the items.
+
+Common vendors for large cities can be generated procedurally as well. There would be templates for them as well, like "Cheese Merchant", "Weapon Merchant", "Blacksmith", etc. They would be scattered throught the area, one per shop, correlating with the doodads of the shop. These shops are indexed with their doodad set value assigned.
